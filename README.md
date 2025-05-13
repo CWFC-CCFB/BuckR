@@ -1,7 +1,7 @@
 # BuckR
 Tree bucking algorithm based on dynamic programming
 
-Authors
+Authors: 
 Caroline Bennemann caroline.bennemann.1@ulaval.ca
 Jean-Martin Lussier jean-martin.lussier@nrcan-rncan.gc.ca
 Eric R. Labelle eric.labelle@sbf.ulaval.ca
